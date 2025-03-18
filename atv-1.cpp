@@ -3,6 +3,6 @@
 int main()
 {
 int a;
-printf("Hello World!");
+printf("Bem-Vindo ao Laboratorio de Progamacao II");
 }
 
